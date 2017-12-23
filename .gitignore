@@ -157,9 +157,12 @@ local.properties
 
 #jetbrains
 .idea/
+*.iml
 
 # My Config
 asset
 dist
 build
 
+# tomcat
+tomcat*
